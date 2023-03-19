@@ -9,6 +9,8 @@ If you appreciate my work and would like to show your support, you can buy me a 
 
 ## 📫 Get in Touch
 
-If you're interested in working together or have any questions, feel free to reach out to me via [email](veeraselvam965@gmail.com) or [LinkedIn](https://www.linkedin.com/in/veera-selvam/). I'm always open to new opportunities and collaborations.
+If you're interested in working together or have any questions, feel free to reach out to me via [<img src="https://img.icons8.com/color/20/000000/gmail-new.png"/>](mailto:veeraselvam965@gmail.com)
+ or [![LinkedIn](https://img.icons8.com/color/20/000000/linkedin.png)](https://www.linkedin.com/in/your-linkedin-profile-url/)
+. I'm always open to new opportunities and collaborations.
 
 Thanks for stopping by my GitHub profile. I can't wait to connect with you!
